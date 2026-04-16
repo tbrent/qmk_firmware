@@ -1,0 +1,39 @@
+{
+    "keyboard": "bastardkb/charybdis/4x6/elitec",
+    "keymap": "mine",
+    "layout": "LAYOUT",
+    "layers": [
+        [
+            "KC_GRV",  "KC_NO",   "KC_NO",   "KC_NO",   "LSFT(KC_4)", "KC_NO",         "KC_MRWD", "KC_MPLY", "KC_MFFD", "KC_VOLD", "KC_VOLU", "MO(3)",
+            "KC_TAB",  "KC_Q",    "KC_W",    "KC_F",    "KC_P",    "KC_B",              "KC_J",    "KC_L",    "KC_U",    "KC_Y",    "KC_SCLN", "KC_END",
+            "KC_EQL",  "KC_A",    "KC_R",    "KC_S",    "KC_T",    "KC_G",              "KC_M",    "KC_N",    "KC_E",    "KC_I",    "KC_O",    "KC_QUOT",
+            "KC_MINS", "KC_Z",    "KC_X",    "KC_C",    "KC_D",    "KC_V",              "KC_K",    "KC_H",    "KC_COMM", "KC_DOT",  "KC_SLSH", "LGUI_T(KC_ESC)",
+                                             "KC_LGUI", "KC_LSFT", "MO(2)",             "KC_BSPC", "KC_SPC",
+                                                        "MO(1)",   "LALT_T(KC_HOME)",   "LCTL_T(KC_ENT)"
+        ],
+        [
+            "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS",          "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "LGUI(KC_Z)",
+            "KC_TRNS", "LCA(KC_1)", "LCA(KC_LEFT)", "LALT(KC_UP)", "LCA(KC_RGHT)", "LCA(KC_2)", "LALT(KC_ENT)", "KC_F8", "KC_UP", "LSFT(KC_BSPC)", "KC_F7", "KC_TRNS",
+            "LGUI(KC_C)", "LGUI(KC_LEFT)", "LALT(KC_LEFT)", "LALT(KC_DOWN)", "LALT(KC_RGHT)", "LGUI(KC_RGHT)", "LSA(KC_F8)", "KC_LEFT", "KC_DOWN", "KC_RGHT", "LSA(KC_F9)", "LGUI(KC_V)",
+            "LGUI(KC_X)", "LGUI(KC_W)", "LCA(KC_S)", "LGUI(KC_L)", "LGUI(KC_S)", "KC_F6", "LSA(KC_ENT)", "LAG(KC_LEFT)", "LGUI(KC_D)", "LAG(KC_RGHT)", "LGUI(KC_SLSH)", "KC_TRNS",
+                                             "KC_TRNS", "KC_TRNS", "KC_TRNS",           "KC_TRNS", "KC_LSFT",
+                                                        "KC_TRNS", "KC_TRNS",           "KC_TRNS"
+        ],
+        [
+            "KC_TILD", "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",             "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",
+            "KC_TRNS", "KC_EXLM", "KC_AT",   "KC_LCBR", "KC_RCBR", "KC_CIRC",           "KC_NO",   "KC_P7",   "KC_P8",   "KC_P9",   "KC_PAST", "KC_TRNS",
+            "KC_PLUS", "KC_HASH", "KC_AMPR", "KC_LPRN", "KC_RPRN", "KC_PERC",           "KC_NO",   "KC_P4",   "KC_P5",   "KC_P6",   "KC_P0",   "KC_DQUO",
+            "KC_UNDS", "KC_ASTR", "KC_PIPE", "KC_LBRC", "KC_RBRC", "KC_DLR",            "KC_PDOT", "KC_P1",   "KC_P2",   "KC_P3",   "KC_PSLS", "KC_TRNS",
+                                             "KC_TRNS", "KC_TRNS", "KC_TRNS",           "KC_TRNS", "KC_TRNS",
+                                                        "KC_SPC",  "KC_TRNS",           "KC_TRNS"
+        ],
+        [
+            "QK_BOOT", "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",             "KC_MRWD", "KC_MPLY", "KC_MFFD", "KC_VOLD", "KC_VOLU", "KC_TRNS",
+            "KC_NO",   "LCA(KC_F1)", "LCA(KC_F2)", "LCA(KC_F3)", "LCA(KC_F4)", "KC_NO", "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",
+            "KC_NO",   "LCA(KC_F5)", "LCA(KC_F6)", "LCA(KC_F7)", "LCA(KC_F8)", "KC_NO", "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",
+            "KC_NO",   "LCA(KC_F9)", "LCA(KC_F10)", "LCA(KC_F11)", "LCA(KC_F12)", "KC_NO", "KC_NO", "KC_NO",  "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",
+                                             "KC_NO",   "KC_NO",   "KC_NO",             "KC_NO",   "KC_NO",
+                                                        "KC_NO",   "KC_NO",             "KC_NO"
+        ]
+    ]
+}
