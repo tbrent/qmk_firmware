@@ -24,7 +24,7 @@
             "KC_TRNS", "KC_EXLM", "KC_AT",   "KC_LCBR", "KC_RCBR", "KC_CIRC",           "KC_NO",   "KC_P7",   "KC_P8",   "KC_P9",   "KC_PAST", "KC_TRNS",
             "KC_PLUS", "KC_HASH", "KC_AMPR", "KC_LPRN", "KC_RPRN", "KC_PERC",           "KC_NO",   "KC_P4",   "KC_P5",   "KC_P6",   "KC_P0",   "KC_DQUO",
             "KC_UNDS", "KC_ASTR", "KC_PIPE", "KC_LBRC", "KC_RBRC", "KC_DLR",            "KC_PDOT", "KC_P1",   "KC_P2",   "KC_P3",   "KC_PSLS", "KC_TRNS",
-                                             "KC_TRNS", "KC_TRNS", "KC_TRNS",           "KC_TRNS", "KC_TRNS",
+                                             "KC_TRNS", "KC_TRNS", "KC_TRNS",           "LALT(KC_BSPC)", "KC_TRNS",
                                                         "KC_SPC",  "KC_TRNS",           "KC_TRNS"
         ],
         [
