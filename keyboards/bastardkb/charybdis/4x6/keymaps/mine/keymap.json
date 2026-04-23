@@ -12,7 +12,7 @@
                                                         "MO(1)",   "LALT_T(KC_HOME)",   "LCTL_T(KC_ENT)"
         ],
         [
-            "LGUI(KC_1)", "LGUI(KC_2)", "LGUI(KC_3)", "LGUI(KC_4)", "LGUI(KC_5)", "LGUI(KC_6)", "LGUI(KC_7)", "LGUI(KC_8)", "LGUI(KC_9)", "LGUI(KC_0)", "KC_TRNS", "LGUI(KC_Z)",
+            "LGUI(LSFT(KC_4))", "LGUI(KC_1)", "LGUI(KC_2)", "LGUI(KC_3)", "LGUI(KC_4)", "LGUI(KC_5)", "LGUI(KC_6)", "LGUI(KC_7)", "LGUI(KC_8)", "LGUI(KC_9)", "LGUI(KC_0)", "LGUI(KC_Z)",
             "KC_TRNS", "LCA(KC_1)", "LCA(KC_LEFT)", "LALT(KC_UP)", "LCA(KC_RGHT)", "LCA(KC_2)", "LALT(KC_ENT)", "KC_F8", "KC_UP", "LSFT(KC_BSPC)", "KC_F7", "KC_TRNS",
             "LGUI(KC_C)", "LGUI(KC_LEFT)", "LALT(KC_LEFT)", "LALT(KC_DOWN)", "LALT(KC_RGHT)", "LGUI(KC_RGHT)", "LSA(KC_F8)", "KC_LEFT", "KC_DOWN", "KC_RGHT", "LSA(KC_F9)", "LGUI(KC_V)",
             "LGUI(KC_X)", "LGUI(KC_W)", "LCA(KC_S)", "LGUI(KC_L)", "LGUI(KC_S)", "KC_F6", "LSA(KC_ENT)", "LAG(KC_LEFT)", "LGUI(KC_D)", "LAG(KC_RGHT)", "LGUI(KC_SLSH)", "KC_TRNS",
